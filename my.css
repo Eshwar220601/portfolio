@@ -1,0 +1,153 @@
+*{
+    padding: 0px;
+    
+}
+body{
+    border-radius: 5px;
+    border-style:double;
+    border-color:olivedrab;
+  
+    
+}
+.head{
+    text-align: center;
+  
+}
+header{
+     background-image: linear-gradient(rgb(91, 55, 55),darkgray,rgb(109, 177, 109));
+     /* opacity: 0.5; */
+    color: aliceblue;
+    padding: 20px;
+     
+}
+h1{
+    text-align: center;
+    text-shadow:brown 2px 2px;;
+}
+ul,li{
+    display: inline;
+    padding-left: 40px;
+    padding-right: 40px;
+    color:mediumblue;
+    font-size: 20px;  
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    color:greenyellow;
+    
+}
+.id1{
+    color:purple;
+    text-shadow: black 2px 1px;
+}
+.id{
+    text-align: center;
+    font-size: large;
+    color:cadetblue;
+}
+.id2{
+    color:cornflowerblue;
+    text-align: center;
+}
+.pic{
+    height: 220px;
+    width: 200px;
+    text-align: center;
+    border-radius: 20px;
+   text-align: center;
+   
+}
+.id3{
+    text-align: center;
+    background-color: rgb(246, 246, 224);
+}
+.bio{
+    text-align: center;
+    font-size: 18px;
+}
+.abo{
+    color:tomato;
+    text-shadow:yellow 2px 2px;
+}
+.port{
+    background-color: burlywood;
+    text-align: center;
+    font-size: 16px;
+    padding: 5px;
+    /* border-style: dotted;
+    border-color: brown; */
+
+}
+.chan{
+    color:forestgreen;
+    text-shadow: dar 2px;
+}
+.resume{
+    text-align: center;
+   
+}
+.res{
+    color:indigo;
+}
+.any{
+    color:hotpink;
+
+}
+.skill{
+    text-align: center;
+    background-color:darkgray;
+    padding-bottom: 10px;
+}
+.tec{
+    padding-top: 20px;
+
+}
+#name{
+    color: blueviolet;
+}
+progress{
+    width: 100px;
+}
+#Contact{
+    padding-top: 0px;
+}
+table,tr,th,td{
+    border-radius: 2px;
+    border-style: solid;
+    border-collapse: collapse;
+    padding: 5px;
+    
+}
+table,th{
+    padding:10px ;
+    
+}
+.main{
+    color:black;
+}
+
+table tr{
+    color: black;
+}
+.edu{
+    color: chocolate;
+}
+.web{
+    text-align: center;
+    background-color:rgb(141, 170, 85);
+    padding-bottom: 5px;
+    
+}
+#web{
+    padding-top: 10px;
+}
+marquee{
+    background-color:teal;
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+}
